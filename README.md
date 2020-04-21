@@ -1,6 +1,8 @@
 # Front-End-Study
 프론트엔드 공부 내용을 정리합니다.
 
+## 필요한 단계 
+
  1. Step 1
 
  * Git / GitHub
